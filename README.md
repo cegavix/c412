@@ -14,3 +14,10 @@ These are the following features
 - Finally, the best feature!!
 
 &copy;2025 - Constance
+
+
+```python
+print("implemented feature 1")
+print("implemented feature 2")
+print("Leave the rest to God")
+```
